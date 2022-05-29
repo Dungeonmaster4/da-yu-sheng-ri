@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/da-yu-sheng-ri/static/js/main.610944c9.js",
+    "static/media/butterfly.png": "/da-yu-sheng-ri/static/media/butterfly.cfba4138fc8eb40661b7.png",
+    "static/media/giphy.gif": "/da-yu-sheng-ri/static/media/giphy.23f24d979b7cf42d3de8.gif",
+    "static/media/lime.png": "/da-yu-sheng-ri/static/media/lime.486dfc7e719b82558af9.png",
+    "static/media/tequila-dui.png": "/da-yu-sheng-ri/static/media/tequila-dui.a6d80a765dd3906cd72e.png",
+    "static/media/budui.png": "/da-yu-sheng-ri/static/media/budui.793dcd649727335f30a0.png",
+    "static/media/smile-3.jpg": "/da-yu-sheng-ri/static/media/smile-3.fc592ea8fc01262af065.jpg",
+    "static/media/underwear.jpg": "/da-yu-sheng-ri/static/media/underwear.a90e9857d34092c4c57f.jpg",
+    "static/media/tequila-budui.png": "/da-yu-sheng-ri/static/media/tequila-budui.85727f4325fec161d2e5.png",
+    "static/media/cross.png": "/da-yu-sheng-ri/static/media/cross.c1360ed67579c3cc72f2.png",
+    "static/media/yeas.png": "/da-yu-sheng-ri/static/media/yeas.e661a5bdb005fa107171.png",
+    "index.html": "/da-yu-sheng-ri/index.html",
+    "main.610944c9.js.map": "/da-yu-sheng-ri/static/js/main.610944c9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.610944c9.js"
+  ]
+}
